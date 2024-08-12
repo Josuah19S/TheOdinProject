@@ -15,7 +15,7 @@ Se buscan las siguientes cualidades:
 - Separar módulos
 
 
-#### Recursos
+### Recursos
 - [Libro] Godel, Escher, Bach: An Eternal Golden Braid Paperback
 https://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567
 - [Libro] Learn to Program
